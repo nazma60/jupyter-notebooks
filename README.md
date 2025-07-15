@@ -1,2 +1,2 @@
 # jupyter-notebooks
-jupyter notebook practices for AI/ML.
+Individual jupyter notebooks for AI/ML and data science projects.
